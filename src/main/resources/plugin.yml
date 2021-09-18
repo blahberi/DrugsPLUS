@@ -1,0 +1,10 @@
+name: DrugsPLUS
+version: '${project.version}'
+main: me.blahberi.drugsplus.DrugsPLUS
+api-version: 1.17
+authors: [ blahberi ]
+description: drugs in minecraft
+commands:
+  drugs:
+    usage: /drugs
+    description: does shit.
